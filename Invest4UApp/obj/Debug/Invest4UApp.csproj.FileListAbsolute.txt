@@ -1,0 +1,10 @@
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\bin\Debug\Invest4UApp.exe.config
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\bin\Debug\Invest4UApp.exe
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\bin\Debug\Invest4UApp.pdb
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.csprojAssemblyReference.cache
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.invest4UForm.resources
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.Properties.Resources.resources
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.csproj.GenerateResource.cache
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.csproj.CoreCompileInputs.cache
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.exe
+C:\Users\vileg\source\repos\Invest4UApp\Invest4UApp\obj\Debug\Invest4UApp.pdb
